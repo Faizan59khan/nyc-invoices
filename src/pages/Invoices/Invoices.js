@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import TextField from "@mui/material/TextField";
 import Button from "@mui/material/Button";
-import AccountStatement from "../AccountStatement/index.js";
+import AccountStatement from "../Statements/accountStatement.js";
 import Stack from "@mui/material/Stack";
 
 const Invoices = () => {
